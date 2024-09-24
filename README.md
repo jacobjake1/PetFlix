@@ -40,13 +40,13 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the **App Name Here** app:
 
-<img src='[http://imgur.com/a/K6T6cp7.png](https://imgur.com/a/K6T6cp7)' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<img src='http://imgur.com/a/K6T6cp7.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='[http://i.imgur.com/a/JcFXUrg.gif](https://imgur.com/a/JcFXUrg)' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://imgur.com/a/JcFXUrg.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
 
